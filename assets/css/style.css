@@ -1,16 +1,18 @@
 /* Styles for all HTML Views */
 body {
-  background-image: url("../img/newBackground.jpg");
+  background-image: url("../img/unicorn.jpg");
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-repeat: repeat;
   font-family: "Roboto", sans-serif;
+  opacity: 0.9;
 }
 
 /* Adds margin, max width and float left to the image on the index page */
 .index-img {
   margin-right: 20px;
-  max-width: 400px;
+  padding-bottom: 5px;
+  max-width: 450px;
   float: left;
 }
 
@@ -91,5 +93,5 @@ footer {
 
 /* Sets footer image width */
 footer img {
-  width: 50px;
+  width: 40px;
 }
