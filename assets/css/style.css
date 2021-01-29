@@ -1,0 +1,95 @@
+/* Styles for all HTML Views */
+body {
+  background-image: url("../img/newBackground.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-repeat: repeat;
+  font-family: "Roboto", sans-serif;
+}
+
+/* Adds margin, max width and float left to the image on the index page */
+.index-img {
+  margin-right: 20px;
+  max-width: 400px;
+  float: left;
+}
+
+/* Adds spacing, padding and background color to the card on the index page */
+.card.index {
+  margin-top: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  background-color: rgba(245, 245, 245, 0.767);
+}
+
+/* Sets height, padding and width to the image on the portfolio page */
+.port-img {
+  height: 350px;
+  padding: 5px;
+  background-color: rgba(245, 245, 245, 0.767);
+  /* margin-left: 2px; */
+  /* max-width: 350px; */
+}
+
+.portEl {
+  background-color: rgba(245, 245, 245, 0.767);
+}
+
+.reopCL {
+  margin-left: 2px;
+}
+
+.justify-content-center {
+  overflow: auto;
+}
+
+/* Adds spacing, padding and background color to the card on the portfolio page */
+.card.port {
+  margin: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgba(245, 245, 245, 0.767);
+}
+/* Adjusts font size of the container on the portfolio page */
+.container.port {
+  font-size: 20px;
+}
+
+/* Adjusts left margin of the paragraphs */
+p {
+  margin-left: 10px;
+}
+
+/* Adds margin to the bottom of the rows on the portfolio page */
+.row.port {
+  margin-bottom: 20px;
+}
+
+/* Adds margin and background color to the card on the contact page */
+.card.contact {
+  margin: 50px;
+  background-color: rgba(245, 245, 245, 0.767);
+}
+
+.cvImg {
+  width: 40px;
+}
+
+.alignImg {
+  text-align: center;
+}
+
+/* #resume {
+  color: slategray;
+} */
+
+/* Align footer images to the center */
+footer {
+  text-align: center;
+}
+
+/* Sets footer image width */
+footer img {
+  width: 50px;
+}
