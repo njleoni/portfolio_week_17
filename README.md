@@ -1,7 +1,14 @@
 # portfolio_week_17
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Desription
-    Purpose of this assignment was to update my responsive portfolio webpage with project related content I have been building in class as well as updated professional information in anticipation of future job opportunities.
+    
+    Purpose of this assignment was to update my responsive portfolio 
+    <br />
+    webpage with project related content I have been building in 
+    <br />
+    class as well as updated professional information in anticipation 
+    <br />
+    of future job opportunities.
 
     I have added:
 
