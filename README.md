@@ -1,7 +1,14 @@
 # portfolio_week_17
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Desription
-    The purpose of this assignment is to modify the starter code to create finished product. The app should allow the user to create notes with text and title which will be stored in the db.json file. App will load exisitng starter notes. User can add additional notes and save them to the db.json. If they click on an exisitng note in the browser, that note will then be presented. 
+    Purpose of this assignment was to update my responsive portfolio webpage with project related content I have been building in class as well as updated professional information in anticipation of future job opportunities.
+
+    I have added:
+
+    - My current contact information.
+    - Link to an updated resume, which can be downloaded.
+    - Link to updated Linkedin and GitHub profiles.
+    - Four class projects I have worked on with image and links to  Repo and URL.
 
 ## Table of Contents
  - [Installation](#installation)
