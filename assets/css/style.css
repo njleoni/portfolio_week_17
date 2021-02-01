@@ -5,7 +5,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   font-family: "Roboto", sans-serif;
-  opacity: 0.9;
+  /* opacity: 0.9; */
 }
 
 /* Adds margin, max width and float left to the image on the index page */
