@@ -33,8 +33,8 @@
 ## Tests
     
 ## Questions
-![GitHub Repo Link](https://github.com/njleoni/portfolio_8_weeks/)
-![Deployed Link](https://njleoni.github.io/portfolio_week_17/)
+[GitHub Repo Link](https://github.com/njleoni/portfolio_8_weeks/)
+[Deployed Link](https://njleoni.github.io/portfolio_week_17/)
 
 #### If you have any additional questions, please contact me at nicholas.leoni@gmail.com
 
